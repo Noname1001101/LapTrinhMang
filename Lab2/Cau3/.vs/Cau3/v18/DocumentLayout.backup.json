@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhMang\\Lab2\\Cau3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1C4706-4174-4CDD-A231-51BB39DEF6F4}|Cau3\\Cau3.csproj|d:\\laptrinhmang\\lab2\\cau3\\cau3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1C4706-4174-4CDD-A231-51BB39DEF6F4}|Cau3\\Cau3.csproj|solutionrelative:cau3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LapTrinhMang\\Lab2\\Cau3\\Cau3\\Program.cs",
+              "RelativeDocumentMoniker": "Cau3\\Program.cs",
+              "ToolTip": "D:\\LapTrinhMang\\Lab2\\Cau3\\Cau3\\Program.cs",
+              "RelativeToolTip": "Cau3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:40:42.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

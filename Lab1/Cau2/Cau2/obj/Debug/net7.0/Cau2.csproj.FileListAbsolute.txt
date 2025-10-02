@@ -1,0 +1,15 @@
+Z:\Lab1\Cau2\Cau2\bin\Debug\net7.0\Cau2.exe
+Z:\Lab1\Cau2\Cau2\bin\Debug\net7.0\Cau2.deps.json
+Z:\Lab1\Cau2\Cau2\bin\Debug\net7.0\Cau2.runtimeconfig.json
+Z:\Lab1\Cau2\Cau2\bin\Debug\net7.0\Cau2.dll
+Z:\Lab1\Cau2\Cau2\bin\Debug\net7.0\Cau2.pdb
+Z:\Lab1\Cau2\Cau2\obj\Debug\net7.0\Cau2.csproj.AssemblyReference.cache
+Z:\Lab1\Cau2\Cau2\obj\Debug\net7.0\Cau2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lab1\Cau2\Cau2\obj\Debug\net7.0\Cau2.AssemblyInfoInputs.cache
+Z:\Lab1\Cau2\Cau2\obj\Debug\net7.0\Cau2.AssemblyInfo.cs
+Z:\Lab1\Cau2\Cau2\obj\Debug\net7.0\Cau2.csproj.CoreCompileInputs.cache
+Z:\Lab1\Cau2\Cau2\obj\Debug\net7.0\Cau2.dll
+Z:\Lab1\Cau2\Cau2\obj\Debug\net7.0\refint\Cau2.dll
+Z:\Lab1\Cau2\Cau2\obj\Debug\net7.0\Cau2.pdb
+Z:\Lab1\Cau2\Cau2\obj\Debug\net7.0\Cau2.genruntimeconfig.cache
+Z:\Lab1\Cau2\Cau2\obj\Debug\net7.0\ref\Cau2.dll
