@@ -1,0 +1,10 @@
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Server\Server\bin\Debug\Bai2(Server).exe.config
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Server\Server\bin\Debug\Bai2(Server).exe
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Server\Server\bin\Debug\Bai2(Server).pdb
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Server\Server\obj\Debug\Bai2_Server_.ServerForm.resources
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Server\Server\obj\Debug\Bai2_Server_.Properties.Resources.resources
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Server\Server\obj\Debug\Bai2(Server).exe
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Server\Server\obj\Debug\Bai2(Server).pdb
