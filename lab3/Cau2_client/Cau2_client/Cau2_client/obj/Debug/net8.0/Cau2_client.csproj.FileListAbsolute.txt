@@ -1,0 +1,15 @@
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\bin\Debug\net8.0\Cau2_client.exe
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\bin\Debug\net8.0\Cau2_client.deps.json
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\bin\Debug\net8.0\Cau2_client.runtimeconfig.json
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\bin\Debug\net8.0\Cau2_client.dll
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\bin\Debug\net8.0\Cau2_client.pdb
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\obj\Debug\net8.0\Cau2_client.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\obj\Debug\net8.0\Cau2_client.AssemblyInfoInputs.cache
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\obj\Debug\net8.0\Cau2_client.AssemblyInfo.cs
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\obj\Debug\net8.0\Cau2_client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\obj\Debug\net8.0\Cau2_client.sourcelink.json
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\obj\Debug\net8.0\Cau2_client.dll
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\obj\Debug\net8.0\refint\Cau2_client.dll
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\obj\Debug\net8.0\Cau2_client.pdb
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\obj\Debug\net8.0\Cau2_client.genruntimeconfig.cache
+D:\LapTrinhMang\lab3\Cau2_client\Cau2_client\Cau2_client\obj\Debug\net8.0\ref\Cau2_client.dll

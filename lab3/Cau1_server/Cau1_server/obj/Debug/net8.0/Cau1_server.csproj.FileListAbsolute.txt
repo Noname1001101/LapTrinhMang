@@ -1,0 +1,15 @@
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\bin\Debug\net8.0\Cau1_server.exe
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\bin\Debug\net8.0\Cau1_server.deps.json
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\bin\Debug\net8.0\Cau1_server.runtimeconfig.json
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\bin\Debug\net8.0\Cau1_server.dll
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\bin\Debug\net8.0\Cau1_server.pdb
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\obj\Debug\net8.0\Cau1_server.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\obj\Debug\net8.0\Cau1_server.AssemblyInfoInputs.cache
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\obj\Debug\net8.0\Cau1_server.AssemblyInfo.cs
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\obj\Debug\net8.0\Cau1_server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\obj\Debug\net8.0\Cau1_server.sourcelink.json
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\obj\Debug\net8.0\Cau1_server.dll
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\obj\Debug\net8.0\refint\Cau1_server.dll
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\obj\Debug\net8.0\Cau1_server.pdb
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\obj\Debug\net8.0\Cau1_server.genruntimeconfig.cache
+D:\LapTrinhMang\lab3\Cau1_server\Cau1_server\obj\Debug\net8.0\ref\Cau1_server.dll

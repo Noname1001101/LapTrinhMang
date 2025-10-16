@@ -1,0 +1,10 @@
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Client\2312716_MaiQuyPhuoc_CTK47B_Client\bin\Debug\Bai3(Client).exe.config
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Client\2312716_MaiQuyPhuoc_CTK47B_Client\bin\Debug\Bai3(Client).exe
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Client\2312716_MaiQuyPhuoc_CTK47B_Client\bin\Debug\Bai3(Client).pdb
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Client\2312716_MaiQuyPhuoc_CTK47B_Client\obj\Debug\2312716_MaiQuyPhuoc_CTK47B_Client.csproj.AssemblyReference.cache
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Client\2312716_MaiQuyPhuoc_CTK47B_Client\obj\Debug\Client.ClientForm.resources
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Client\2312716_MaiQuyPhuoc_CTK47B_Client\obj\Debug\Bai3_Client_.Properties.Resources.resources
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Client\2312716_MaiQuyPhuoc_CTK47B_Client\obj\Debug\2312716_MaiQuyPhuoc_CTK47B_Client.csproj.GenerateResource.cache
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Client\2312716_MaiQuyPhuoc_CTK47B_Client\obj\Debug\2312716_MaiQuyPhuoc_CTK47B_Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Client\2312716_MaiQuyPhuoc_CTK47B_Client\obj\Debug\Bai3(Client).exe
+D:\LapTrinhMang\Lab2\Client_and_Server_UI\Client\2312716_MaiQuyPhuoc_CTK47B_Client\obj\Debug\Bai3(Client).pdb

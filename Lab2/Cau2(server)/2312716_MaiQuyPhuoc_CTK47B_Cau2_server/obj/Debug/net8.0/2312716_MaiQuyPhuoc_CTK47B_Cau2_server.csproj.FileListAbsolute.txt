@@ -1,0 +1,15 @@
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\bin\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.exe
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\bin\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.deps.json
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\bin\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.runtimeconfig.json
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\bin\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.dll
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\bin\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.pdb
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\obj\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\obj\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.AssemblyInfoInputs.cache
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\obj\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.AssemblyInfo.cs
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\obj\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\obj\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.sourcelink.json
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\obj\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.dll
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\obj\Debug\net8.0\refint\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.dll
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\obj\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.pdb
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\obj\Debug\net8.0\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.genruntimeconfig.cache
+D:\LapTrinhMang\Lab2\Cau2(server)\2312716_MaiQuyPhuoc_CTK47B_Cau2_server\obj\Debug\net8.0\ref\2312716_MaiQuyPhuoc_CTK47B_Cau2_server.dll
