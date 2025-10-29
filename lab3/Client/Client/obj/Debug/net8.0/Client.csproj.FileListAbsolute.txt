@@ -1,0 +1,15 @@
+D:\LapTrinhMang\lab3\Client\Client\bin\Debug\net8.0\Client.exe
+D:\LapTrinhMang\lab3\Client\Client\bin\Debug\net8.0\Client.deps.json
+D:\LapTrinhMang\lab3\Client\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\LapTrinhMang\lab3\Client\Client\bin\Debug\net8.0\Client.dll
+D:\LapTrinhMang\lab3\Client\Client\bin\Debug\net8.0\Client.pdb
+D:\LapTrinhMang\lab3\Client\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\lab3\Client\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\LapTrinhMang\lab3\Client\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\LapTrinhMang\lab3\Client\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\lab3\Client\Client\obj\Debug\net8.0\Client.sourcelink.json
+D:\LapTrinhMang\lab3\Client\Client\obj\Debug\net8.0\Client.dll
+D:\LapTrinhMang\lab3\Client\Client\obj\Debug\net8.0\refint\Client.dll
+D:\LapTrinhMang\lab3\Client\Client\obj\Debug\net8.0\Client.pdb
+D:\LapTrinhMang\lab3\Client\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\LapTrinhMang\lab3\Client\Client\obj\Debug\net8.0\ref\Client.dll
