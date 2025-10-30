@@ -1,0 +1,10 @@
+D:\LapTrinhMang\lab3\Client_Server_UI_Lab03\Client_UI_Lab03\Client_UI_Lab03\bin\Debug\Client_UI_Lab03.exe.config
+D:\LapTrinhMang\lab3\Client_Server_UI_Lab03\Client_UI_Lab03\Client_UI_Lab03\bin\Debug\Client_UI_Lab03.exe
+D:\LapTrinhMang\lab3\Client_Server_UI_Lab03\Client_UI_Lab03\Client_UI_Lab03\bin\Debug\Client_UI_Lab03.pdb
+D:\LapTrinhMang\lab3\Client_Server_UI_Lab03\Client_UI_Lab03\Client_UI_Lab03\obj\Debug\Client_UI_Lab03.csproj.AssemblyReference.cache
+D:\LapTrinhMang\lab3\Client_Server_UI_Lab03\Client_UI_Lab03\Client_UI_Lab03\obj\Debug\Client_UI_Lab03.ClientForm.resources
+D:\LapTrinhMang\lab3\Client_Server_UI_Lab03\Client_UI_Lab03\Client_UI_Lab03\obj\Debug\Client_UI_Lab03.Properties.Resources.resources
+D:\LapTrinhMang\lab3\Client_Server_UI_Lab03\Client_UI_Lab03\Client_UI_Lab03\obj\Debug\Client_UI_Lab03.csproj.GenerateResource.cache
+D:\LapTrinhMang\lab3\Client_Server_UI_Lab03\Client_UI_Lab03\Client_UI_Lab03\obj\Debug\Client_UI_Lab03.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\lab3\Client_Server_UI_Lab03\Client_UI_Lab03\Client_UI_Lab03\obj\Debug\Client_UI_Lab03.exe
+D:\LapTrinhMang\lab3\Client_Server_UI_Lab03\Client_UI_Lab03\Client_UI_Lab03\obj\Debug\Client_UI_Lab03.pdb
